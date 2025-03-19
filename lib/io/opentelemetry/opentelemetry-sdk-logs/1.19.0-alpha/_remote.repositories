@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 08 00:35:48 IST 2023
+opentelemetry-sdk-logs-1.19.0-alpha.jar>central=
+opentelemetry-sdk-logs-1.19.0-alpha-sources.jar>central=
+opentelemetry-sdk-logs-1.19.0-alpha.pom>central=
